@@ -744,6 +744,9 @@ blockquote {
 #header5-1 .nav-tabs {
   margin-top: 90px;
 }
+#header5-1 P {
+  text-align: left;
+}
 #footer2-2 .mbr-section-text {
   color: #fff;
 }
